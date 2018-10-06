@@ -1,0 +1,1 @@
+docker build -t hurb/hello-world:latest .
